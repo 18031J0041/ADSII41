@@ -1,0 +1,129 @@
+Leaning by doing-1
+
+Two graphs are isomorphic if there is a way to rename the vertices of one to make it identical to the other. Draw all the non isomorphic graphs with two, three, four, and five vertices.
+
+Non-isomorphic graphs:
+
+There are 2 non-isomorphic graphs with 2 vertices:
+o o
+
+o-o
+
+There are 4 non-isomorphic graphs with 3 vertices:
+ o
+o o
+
+ o
+o-o
+
+o-o-o
+
+ o
+/ \
+o-o
+
+There are 8 non-isomorphic graphs with 4 vertices:
+o o o o
+
+o-o o o
+
+o-o-o o
+
+o-o-o-o
+
+o-o o-o
+
+  o
+  |
+  o
+ / \
+o   o
+
+o-o
+| |
+o-o
+
+  o
+  | 
+  o
+ / \
+o---o
+
+
+There are 15 non-isomorphic graphs with 5 vertices:
+  o
+o   o
+ o o
+
+  o
+o   o
+ o-o
+
+  o
+o    o
+    /
+ o-o
+
+   o
+o     o
+ \   /
+  o o
+
+   o
+ / | \
+o  o  o  
+     o
+
+  o
+ / \
+o   o 
+ o-o
+
+   o
+ /  \
+o    o 
+ \
+  o o
+
+   o
+ /  \
+o----o
+  o o
+
+   o
+ /|\\
+o o oo
+
+o-o
+| |
+o-o o
+
+o
+|
+o-o
+| |
+o o
+
+  o
+  |
+  o
+ / \
+o---o o
+
+o-o-o-o-o
+ 
+
+   o
+ /  \
+o    o 
+ \   /
+  o-o
+
+
+  o
+  |
+  o
+  |
+  o
+ / \
+o---o
